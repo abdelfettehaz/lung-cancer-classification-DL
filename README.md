@@ -1,4 +1,4 @@
-# lung-cancer-classification-DL
+# lung-cancer-classification-dl
 
 this the link of the dataset
 https://www.kaggle.com/datasets/abdelfettehazzouz/bigdata
